@@ -56,7 +56,9 @@ Flask
 
 Scikit-learn
 
-Spacy
+Spacy 
+
+Streamlit
 
 HTML5
 
@@ -66,8 +68,6 @@ JavaScript
 
 📬 Contact
 
-Ayesha Emaan
+📋 Dinesh
 
-💼 Web Developer | Python Developer
-
-📧 emaanayesha50@gmail.com
+📧 dinesh0x7e8@gmail.com
